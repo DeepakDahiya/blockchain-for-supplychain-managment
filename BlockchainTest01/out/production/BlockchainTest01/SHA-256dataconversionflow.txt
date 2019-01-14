@@ -1,0 +1,5 @@
+
+
+
+1)getbytes = convert characters to ascii values then to byte array
+2)
